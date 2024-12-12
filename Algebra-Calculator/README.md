@@ -28,6 +28,13 @@ An intuitive algebra calculator designed to compute various algebraic expression
 8. \(a^3 - b^3 = (a - b)(a^2 + ab + b^2)\)
 9. \(a^3 + b^3 = (a + b)(a^2 - ab + b^2)\)
 
+## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/a47d0414-8147-4151-8641-c035fc1bede0" alt="Screenshot 1" width="45%" style="margin-right: 25px;">
+  <img src="https://github.com/user-attachments/assets/cb938ac8-1403-44fd-8f13-7505000ff194" alt="Screenshot 2" width="45%">
+</div>
+
 ## Project Highlights
 
 - **From Scratch**: Every line of code was written from scratch to ensure a deeper understanding and control over the application.
