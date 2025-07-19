@@ -39,7 +39,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/anime-meme-generator.git
+git clone https://github.com//CodeCraftAyan//Web-Development/Anime-Meme-Generator.git
 cd anime-meme-generator
 
 # Create and activate a virtual environment (optional but recommended)
